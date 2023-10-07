@@ -1,0 +1,160 @@
+HTML:
+<!DOCTYPE html>
+    <html>
+    <head>
+         <title>Flipksrt Clone</title>
+         <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="items-continer">
+            <div class="item-conatiner flex">
+               
+                    <img src="./ <div class="item-image-conatiner">images/iphone-13-mlph3hn-a-apple-original-imag6vzzhrxgazsg.jpeg" alt="">
+                </div>
+               <div>
+                   <h2>Apple iphone</h2>
+                   <p>
+                    <span class="rating text-bold">4.6</span>
+                    <span class="grey-text">12,000 Ratings & 4,000 Reviews</span>
+                   </p>
+                   <ul>
+                      <li class="item description">128GB ROM</li>
+                      <li class="item description">XDR Display</li>
+                      <li class="item description">12MP + 12MP| 12MP Front camera</li>
+                      <li class="item description">6 Core Processor</li>
+                      <li class="item description">1 year warranty for phone</li>
+                   </ul>
+               </div>
+               <div>
+                    <div>
+                        <p class="offer-price text-bold">$1200/-</p>
+                        <p>
+                            <span class="main-price grey-text">$2000/-</span>
+                            <span class="green-text text-bold">40% off</span>
+                        </p>
+                        <p>
+                            <span>free delivery by</span>
+                            <span class="text-bold">tomorrow</span>
+                        </p>
+                        <p><a href="" class="green-text text-bold">Saver Deal</a></p>
+                        <p><a href="" class="green-text text-bold">Bank Offer</a></p>
+                    </div>
+                    <div>
+                        <img class="flipkart-assured" src="./project/assured1.png" alt="">
+                    </div>
+               </div>
+            </div>
+            <div class="item-conatiner flex">
+                <div class="item-image-conatiner">
+                    <img src="./images/iphone-13-mlpf3hn-a-apple-original-imag6vzz5qvejz8z.jpeg" alt="">
+                </div>
+               <div>
+                   <h2>Apple iphone</h2>
+                   <p>
+                    <span class="rating text-bold">4.6</span>
+                    <span class="grey-text">12,000 Ratings & 4,000 Reviews</span>
+                   </p>
+                   <ul>
+                      <li class="item description">128GB ROM</li>
+                      <li class="item description">XDR Display</li>
+                      <li class="item description">12MP + 12MP| 12MP Front camera</li>
+                      <li class="item description">6 Core Processor</li>
+                      <li class="item description">1 year warranty for phone</li>
+                   </ul>
+               </div>
+               <div>
+                    <div>
+                        <p class="offer-price text-bold">$1200/-</p>
+                        <p>
+                            <span class="main-price grey-text">$2000/-</span>
+                            <span class="green-text text-bold">40% off</span>
+                        </p>
+                        <p>
+                            <span>free delivery by</span>
+                            <span class="text-bold">tomorrow</span>
+                        </p>
+                        <p><a href="" class="green-text text-bold">Saver Deal</a></p>
+                        <p><a href="" class="green-text text-bold">Bank Offer</a></p>
+                    </div>
+                    <div>
+                        <img class="flipkart-assured" src="./project/assured1.png" alt="">
+                    </div>
+               </div>
+            </div>
+            <div class="item-conatiner flex">
+                <div class="item-image-conatiner">
+                    <img src="./images/iphone-13-mlph3hn-a-apple-original-imag6vzzhrxgazsg.jpeg" alt="">
+                </div>
+               <div>
+                   <h2>Apple iphone</h2>
+                   <p>
+                    <span class="rating text-bold">4.6</span>
+                    <span class="grey-text">12,000 Ratings & 4,000 Reviews</span>
+                   </p>
+                   <ul>
+                      <li class="item description">128GB ROM</li>
+                      <li class="item description">XDR Display</li>
+                      <li class="item description">12MP + 12MP| 12MP Front camera</li>
+                      <li class="item description">6 Core Processor</li>
+                      <li class="item description">1 year warranty for phone</li>
+                   </ul>
+               </div>
+               <div>
+                    <div>
+                        <p class="offer-price text-bold">$1200/-</p>
+                        <p>
+                            <span class="main-price grey-text">$2000/-</span>
+                            <span class="green-text text-bold">40% off</span>
+                        </p>
+                        <p>
+                            <span>free delivery by</span>
+                            <span class="text-bold">tomorrow</span>
+                        </p>
+                        <p><a href="" class="green-text text-bold">Saver Deal</a></p>
+                        <p><a href="" class="green-text text-bold">Bank Offer</a></p>
+                    </div>
+                    <div>
+                        <img class="flipkart-assured" src="./project/assured1.png" alt="">
+                    </div>
+               </div>
+            </div>
+            <div class="item-conatiner flex">
+                <div class="item-image-conatiner">
+                    <img src="./images/apple-iphone-12-dummyapplefsn-original-imafwg8dkyh2zgrh.jpeg" alt="">
+                </div>
+               <div>
+                   <h2>Apple iphone</h2>
+                   <p>
+                    <span class="rating text-bold">4.6</span>
+                    <span class="grey-text">12,000 Ratings & 4,000 Reviews</span>
+                   </p>
+                   <ul>
+                      <li class="item description">128GB ROM</li>
+                      <li class="item description">XDR Display</li>
+                      <li class="item description">12MP + 12MP| 12MP Front camera</li>
+                      <li class="item description">6 Core Processor</li>
+                      <li class="item description">1 year warranty for phone</li>
+                   </ul>
+               </div>
+               <div>
+                    <div>
+                        <p class="offer-price text-bold">$1200/-</p>
+                        <p>
+                            <span class="main-price grey-text">$2000/-</span>
+                            <span class="green-text text-bold">40% off</span>
+                        </p>
+                        <p>
+                            <span>free delivery by</span>
+                            <span class="text-bold">tomorrow</span>
+                        </p>
+                        <p><a href="" class="green-text text-bold">Saver Deal</a></p>
+                        <p><a href="" class="green-text text-bold">Bank Offer</a></p>
+                    </div>
+                    <div>
+                        <img class="flipkart-assured" src="./project/assured1.png" alt="">
+                    </div>
+               </div>
+            </div>
+        </div>
+    </body>
+</html>
