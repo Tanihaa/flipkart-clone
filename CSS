@@ -1,0 +1,45 @@
+.flex{
+    display: flex;
+    justify-content: space-around
+}
+
+.offer-price{
+    font-size:30px ;
+}
+
+.main-price{
+    text-decoration: line-through;
+}
+.green-text{
+    color:rgb(30, 175, 30)
+}
+.text-bold{
+     font-weight: 700;
+}
+.grey-text{
+    color: rgb(109,107, 107);
+}
+.rating{
+    background-color:rgb(49, 121, 49) ;
+    color:#ffffff;
+    padding: 2px 12px;
+    border:3px ;
+}
+.item-conatiner{
+    width: 99vw;
+    font-family: 'segoe UI',Tahoma 
+    Geneva;
+    border-bottom: 1px solid grey;
+    padding: 6px;
+    margin-top: 24px;
+}
+p{
+    line-height: 10px;
+}   
+a{
+    text-decoration: none;
+}
+.flipkart-assured {
+    width:80px;
+ margin-top: 18px;
+}
